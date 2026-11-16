@@ -4,64 +4,61 @@
 
 <h1 align="center">Hi, I'm Mackenzie</h1>
 
-<h3 align="center">AI Engineer · Systems Builder · Competitive Chess Player</h3>
+<h3 align="center">Software & AI Engineer · Competitive Chess Player</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Architecting+Intelligent+Systems;%3E+Engineering+C%2B%2B+Storage+Cores;%3E+Autonomous+Multi-Agent+DAGs;%3E+Calculates+10+Moves+Ahead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Building+with+Python%2C+C%2B%2B%2C+and+TypeScript;%3E+Working+on+backend+systems+and+AI;%3E+Competitive+chess+player" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Building reliable, high-throughput systems with clean architecture and first-principles design.
+  Building reliable software and backend systems with clean architecture.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Systems-38bdf8?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Chess-International_Player-amber?style=flat-square" alt="Chess" />
-  <img src="https://img.shields.io/badge/Status-Building_In_Public-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-38bdf8?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Chess-Competitive_Player-amber?style=flat-square" alt="Chess" />
 </p>
 
 ---
 
 <h2 align="center">// ABOUT ME</h2>
 
-<img align="right" src="./assets/astro.png" width="270" alt="Pixel Astronaut" />
+<img align="right" src="./assets/astro.png" width="240" alt="Pixel Astronaut" />
 
-**Mackenzie Campbel Andross** — an **AI & Systems Engineer** focused on designing, developing, and deploying intelligent, high-throughput software systems.
+**Mackenzie** — software and AI engineer building backend systems, AI applications, and databases.
 
-My work revolves around **Autonomous Agents, Applied AI, Computer Vision, Low-Latency C++ Storage Engines, and Distributed Architecture**.
+I focus on practical engineering, performant backends, and low-level software using **Python, C++, and TypeScript**.
 
-I enjoy working across the entire engineering lifecycle: from mathematical problem formulation and algorithm design to bare-metal systems optimization, model inference, and resilient production infrastructure.
+I like building things end-to-end: from API design and data pipelines to database internals and model integration.
 
-When I am not writing code, I am an **International Competitive Chess Player**, applying the same principles of deep tactical calculation, positional pattern recognition, and long-horizon strategy to software architecture.
+Outside of software engineering, I play competitive chess.
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">// FEATURED SYSTEMS</h2>
+<h2 align="center">// FEATURED PROJECTS</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### [FORGE](https://github.com/MackenzieCampbelAndross/FORGE)
-**Autonomous Multi-Agent Orchestration Platform**
-* Distributed asynchronous task DAG execution engine with topological dependency resolution.
-* Inter-agent protocol bus, structured telemetry streaming, and isolated worker concurrency pools.
-* Episodic vector memory layer and dynamic tool schema registration.
+**Multi-Agent Workflow Framework**
+* Asynchronous task graph execution engine with dependency management.
+* Worker process isolation, event streaming, and custom tool integration.
 
-`Python` `AsyncIO` `Alembic` `Docker` `Pydantic v2`
+`Python` `AsyncIO` `Alembic` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 ### [CeeBase](https://github.com/MackenzieCampbelAndross/CeeBase)
-**Embedded Low-Latency Storage Engine**
-* Relational storage core written in modern C++ with slotted-page tuple encoding.
-* Concurrent B+ Tree indexing with optimistic latch crabbing to prevent thread starvation.
-* Atomic Write-Ahead Logging (WAL) with strict fsync checkpointing and LRU buffer frame management.
+**Embedded Storage Engine**
+* Storage engine written in C++ with page-based data layouts.
+* B+ Tree index with concurrent latching and write-ahead logging (WAL) for durability.
 
-`C++17` `CMake` `B+ Tree` `WAL` `Memory-Mapped I/O`
+`C++17` `CMake` `B+ Tree` `WAL`
 
 </td>
 </tr>
@@ -70,23 +67,21 @@ When I am not writing code, I am an **International Competitive Chess Player**, 
 <td width="50%" valign="top">
 
 ### [A.T.L.A.S](https://github.com/MackenzieCampbelAndross/A.T.L.A.S)
-**Multimodal Voice & Audio Intelligence**
-* Low-latency voice processing pipeline integrating Whisper speech-to-text token decoding.
-* Dynamic Voice Activity Detection (VAD) energy gating with ambient noise suppression.
-* Intent classifier, hotword activation, and conversational session context persistence.
+**Voice Processing Pipeline**
+* Audio processing pipeline with Whisper speech-to-text integration.
+* Voice activity detection, audio chunking, and intent matching.
 
-`Python` `Whisper` `Audio DSP` `VAD` `NLP Intent Engine`
+`Python` `Whisper` `Audio` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
 ### [MetaVault](https://github.com/MackenzieCampbelAndross/MetaVault)
-**Zero-Knowledge KYC & Soulbound Identity**
-* On-chain cryptographic identity verification registry using EIP-712 typed signatures.
-* Soulbound non-transferable token (SBT) status checks with verifiable claim revocation.
-* Gas-optimized EVM storage slot packing and proxy upgradeability architecture.
+**KYC & Identity Contracts**
+* Smart contract registry for identity credential verification.
+* Non-transferable token checks, EIP-712 signatures, and upgradeable proxies.
 
-`Solidity` `Hardhat` `zk-SNARKs` `EIP-712` `Web3.js`
+`Solidity` `Hardhat` `EIP-712` `Web3.js`
 
 </td>
 </tr>
@@ -95,12 +90,11 @@ When I am not writing code, I am an **International Competitive Chess Player**, 
 <td colspan="2" valign="top">
 
 ### [MonkeyBots](https://github.com/MackenzieCampbelAndross/MonkeyBots)
-**Distributed Headless Automation & Web Agent Fleet**
-* Resilient headless browser worker fleet with automated session renewal and proxy pool health routing.
-* Dynamic DOM mutation observer fallbacks, anti-bot timing jitter, and structured JSON telemetry extraction.
-* Worker concurrency pools with graceful shutdown and automated error screenshot diagnostics.
+**Automation & Scraper Framework**
+* Headless browser automation with session management and proxy rotation.
+* Resilient DOM selector handling, concurrency pools, and error reporting.
 
-`Python` `Headless Chrome` `Async Workers` `Resilience Automation`
+`Python` `Headless Chrome` `Automation`
 
 </td>
 </tr>
@@ -159,5 +153,3 @@ When I am not writing code, I am an **International Competitive Chess Player**, 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MackenzieCampbelAndross&bg_color=000000&color=E6EDF3&line=38BDF8&point=818CF8&area=true&hide_border=true&radius=12" alt="Activity Graph" width="95%" />
 </p>
-
-

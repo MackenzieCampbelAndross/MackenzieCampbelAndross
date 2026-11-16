@@ -1,20 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="320">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="250">
   <defs>
     <style>
       .term-title { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #6e7681; }
       .prompt { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; font-weight: 600; fill: #38bdf8; }
       .cmd { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; fill: #ffffff; }
       .label { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; font-weight: 600; fill: #818cf8; }
-      .val { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #d1d5db; }
-      .highlight { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #34d399; }
+      .val { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #c9d1d9; }
       .cursor { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; fill: #38bdf8; }
     </style>
   </defs>
 
-  <!-- Window Container (Pure Black Background) -->
-  <rect x="2" y="2" width="846" height="316" rx="8" fill="#000000" stroke="#262626" stroke-width="1.2"/>
+  <!-- Window Container (Pure Black) -->
+  <rect x="2" y="2" width="846" height="246" rx="8" fill="#000000" stroke="#262626" stroke-width="1.2"/>
 
-  <!-- Window Titlebar -->
+  <!-- Titlebar -->
   <path d="M 2 10 Q 2 2 10 2 L 840 2 Q 848 2 848 10 L 848 36 L 2 36 Z" fill="#0a0a0a"/>
   <line x1="2" y1="36" x2="848" y2="36" stroke="#222222" stroke-width="1"/>
 
@@ -24,36 +23,31 @@
   <circle cx="56" cy="19" r="5" fill="#27c93f"/>
 
   <!-- Title -->
-  <text x="425" y="23" text-anchor="middle" class="term-title">andross@workstation: ~ (zsh)</text>
+  <text x="425" y="23" text-anchor="middle" class="term-title">andross@dev: ~ (bash)</text>
 
-  <!-- Terminal Content -->
-  <!-- Line 1: Command -->
-  <text x="24" y="68" class="prompt">andross@workstation:~$ </text>
-  <text x="200" y="68" class="cmd">neofetch --system-profile</text>
+  <!-- Command -->
+  <text x="24" y="68" class="prompt">andross@dev:~$ </text>
+  <text x="160" y="68" class="cmd">neofetch</text>
 
-  <!-- System Profile Info -->
-  <text x="24" y="102" class="label">OS        :</text>
-  <text x="130" y="102" class="val">MackenzieOS 2.6 (x86_64)</text>
+  <!-- Output -->
+  <text x="24" y="102" class="label">user     :</text>
+  <text x="120" y="102" class="val">Mackenzie Campbel Andross</text>
 
-  <text x="24" y="127" class="label">HOST      :</text>
-  <text x="130" y="127" class="val">AI &amp; Systems Engineering Runtimes</text>
+  <text x="24" y="127" class="label">role     :</text>
+  <text x="120" y="127" class="val">Software &amp; AI Engineer</text>
 
-  <text x="24" y="152" class="label">KERNEL    :</text>
-  <text x="130" y="152" class="highlight">Distributed DAGs · Embedded C++ Engines · Applied AI</text>
+  <text x="24" y="152" class="label">stack    :</text>
+  <text x="120" y="152" class="val">Python, C++, TypeScript, PyTorch, Docker, Linux</text>
 
-  <text x="24" y="177" class="label">CHESS     :</text>
-  <text x="130" y="177" class="val">Competitive International Player (Deep Calculation &amp; Tactics)</text>
+  <text x="24" y="177" class="label">chess    :</text>
+  <text x="120" y="177" class="val">Competitive Player</text>
 
-  <text x="24" y="202" class="label">STACK     :</text>
-  <text x="130" y="202" class="val">C++17, Python, PyTorch, Docker, CMake, AsyncIO, Linux</text>
+  <text x="24" y="202" class="label">repos    :</text>
+  <text x="120" y="202" class="val">FORGE, CeeBase, A.T.L.A.S, MetaVault, MonkeyBots</text>
 
-  <text x="24" y="227" class="label">PROJECTS  :</text>
-  <text x="130" y="227" class="val">FORGE, CeeBase, A.T.L.A.S, MetaVault, MonkeyBots</text>
-
-  <!-- Next Command with Blinking Cursor -->
-  <text x="24" y="272" class="prompt">andross@workstation:~$ </text>
-  <text x="200" y="272" class="cmd">build --target=production --mode=release</text>
-  <text x="515" y="272" class="cursor">_
+  <!-- Next Prompt -->
+  <text x="24" y="232" class="prompt">andross@dev:~$ </text>
+  <text x="160" y="232" class="cursor">_
     <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
   </text>
 </svg>
