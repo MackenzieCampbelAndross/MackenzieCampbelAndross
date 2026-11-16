@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 72" width="100%" height="72">
+  <defs>
+    <!-- Monochrome Obsidian Card Background -->
+    <linearGradient id="slimGrad_monkeybots" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e0e12"/>
+      <stop offset="100%" stop-color="#020204"/>
+    </linearGradient>
+
+    <!-- Crisp White/Silver Rim Light -->
+    <linearGradient id="slimBorder_monkeybots" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <!-- Ambient Shadow -->
+    <filter id="slimShadow_monkeybots" x="-2%" y="-5%" width="104%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <!-- Slim Card Container -->
+  <rect x="2" y="2" width="846" height="68" rx="10" fill="url(#slimGrad_monkeybots)" stroke="url(#slimBorder_monkeybots)" stroke-width="1.2" filter="url(#slimShadow_monkeybots)"/>
+
+  <!-- Left: Title & Subtitle -->
+  <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="-0.3px">MonkeyBots</text>
+  <text x="24" y="52" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11.5" font-weight="500" fill="#a1a1aa">Automation &amp; Scraper Framework</text>
+
+  <!-- Right: Tech Tags -->
+    <rect x="735.0" y="24" width="50.0" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="760.0" y="40" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10.5" fill="#a1a1aa">Async</text>
+    <rect x="643.0" y="24" width="84.0" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="685.0" y="40" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10.5" fill="#a1a1aa">Automation</text>
+    <rect x="564.6" y="24" width="70.4" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="599.8" y="40" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10.5" fill="#a1a1aa">Headless</text>
+    <rect x="499.8" y="24" width="56.8" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="528.2" y="40" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10.5" fill="#a1a1aa">Python</text>
+
+  <!-- Far Right: Link Arrow -->
+  <g>
+    <circle cx="815" cy="36" r="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <path d="M 811 40 L 819 32 M 814 32 L 819 32 L 819 37" fill="none" stroke="#d4d4d8" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
