@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./assets/terminal_header.svg" alt="Terminal Header" width="100%">
+  <img src="./assets/terminal_v3.svg" alt="Terminal Header" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Mackenzie</h1>
 
-<h3 align="center">Software & AI Engineer · Competitive Chess Player</h3>
+<h3 align="center">Software & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Building+with+Python%2C+C%2B%2B%2C+and+TypeScript;%3E+Working+on+backend+systems+and+AI;%3E+Competitive+chess+player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Building+with+Python%2C+C%2B%2B%2C+and+TypeScript;%3E+Working+on+backend+systems+and+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-38bdf8?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Chess-Competitive_Player-amber?style=flat-square" alt="Chess" />
 </p>
 
 ---
@@ -31,7 +30,7 @@ I focus on practical engineering, performant backends, and low-level software us
 
 I like building things end-to-end: from API design and data pipelines to database internals and model integration.
 
-Outside of software engineering, I play competitive chess.
+Outside of software engineering, I am an International Chess Player.
 
 <br clear="right"/>
 
