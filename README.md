@@ -60,6 +60,12 @@ Outside of software engineering, I am an International Chess Player.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MackenzieCampbelAndross/AstraLink">
+    <img src="./assets/cards/astralink_bw.svg" width="70%" alt="AstraLink" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center">Connect</h2>
