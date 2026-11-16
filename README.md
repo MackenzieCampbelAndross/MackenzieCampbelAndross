@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Designing reliable backends, high-performance engines, and practical AI tools.
+  I build things that run fast and don't break.
 </p>
 
 <p align="center">
@@ -26,11 +26,9 @@
 
 <img align="right" src="./assets/astro.png" width="240" alt="Pixel Astronaut" />
 
-**Mackenzie** — software and AI engineer building backend systems, AI applications, and databases.
+Hey, I'm **Mackenzie**.
 
-I focus on practical engineering, performant backends, and low-level software using **Python, C++, and TypeScript**.
-
-I like building things end-to-end: from API design and data pipelines to database internals and model integration.
+Most of my days are spent building backends, experimenting with AI, and writing low-level code in **Python and C++**. I like understanding systems from the ground up and building tools that are clean under the hood.
 
 Outside of software engineering, I am an International Chess Player.
 
