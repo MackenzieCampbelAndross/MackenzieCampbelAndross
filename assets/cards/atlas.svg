@@ -46,20 +46,12 @@
   </text>
 
   <!-- Tech Tags Footer -->
-  
-    <rect x="24" y="128" width="61.2" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <rect x="24.0" y="128" width="61.2" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
     <text x="54.6" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#94a3b8">Python</text>
-        
-
     <rect x="93.2" y="128" width="68.4" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
     <text x="127.4" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#94a3b8">Whisper</text>
-        
-
-    <rect x="169.60000000000002" y="128" width="54.0" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-    <text x="196.60000000000002" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#94a3b8">Audio</text>
-        
-
-    <rect x="231.60000000000002" y="128" width="39.6" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-    <text x="251.40000000000003" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#94a3b8">NLP</text>
-        
+    <rect x="169.6" y="128" width="54.0" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="196.6" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#94a3b8">Audio</text>
+    <rect x="231.6" y="128" width="39.6" height="24" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <text x="251.4" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#94a3b8">NLP</text>
 </svg>
