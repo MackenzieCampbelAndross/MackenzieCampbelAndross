@@ -38,22 +38,6 @@ When I am not writing code, I am an **International Competitive Chess Player**, 
 
 ---
 
-<h2 align="center">// PIXEL COMPANIONS</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/197.gif" width="70" alt="Umbreon" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/pixel-cat.gif" width="130" alt="Pixel Cat Pet" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="75" alt="Gengar" />
-</p>
-
-<p align="center">
-  <sub><i>Level 99 Digital Companions patrolling the codebase.</i></sub>
-</p>
-
----
-
 <h2 align="center">// FEATURED SYSTEMS</h2>
 
 <table width="100%">
