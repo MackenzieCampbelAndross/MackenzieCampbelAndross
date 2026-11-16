@@ -12,14 +12,6 @@
   I build things that run fast and don't break.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_AI_Systems-38bdf8?style=flat-square&labelColor=0a0a0a" alt="Focus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Core_Stack-Python_%7C_C%2B%2B_%7C_TypeScript-ffffff?style=flat-square&labelColor=0a0a0a" alt="Core Stack" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Architecture-Clean_%26_Performant-a1a1aa?style=flat-square&labelColor=0a0a0a" alt="Architecture" />
-</p>
-
 ---
 
 <h2 align="center">About Me</h2>
