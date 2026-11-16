@@ -4,18 +4,20 @@
 
 <h1 align="center">Hi, I'm Mackenzie</h1>
 
-<h3 align="center">Software & AI Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Building+with+Python%2C+C%2B%2B%2C+and+TypeScript;%3E+Working+on+backend+systems+and+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=%3E+I+build+things+that+run+fast+and+don't+break;%3E+Writing+low-level+C%2B%2B%2C+Python%2C+and+TypeScript;%3E+Tinkering+with+AI+pipelines+and+storage+engines" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Building reliable software and backend systems with clean architecture.
+  Designing reliable backends, high-performance engines, and practical AI tools.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-38bdf8?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_AI_Systems-38bdf8?style=flat-square&labelColor=0a0a0a" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Core_Stack-Python_%7C_C%2B%2B_%7C_TypeScript-ffffff?style=flat-square&labelColor=0a0a0a" alt="Core Stack" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Architecture-Clean_%26_Performant-a1a1aa?style=flat-square&labelColor=0a0a0a" alt="Architecture" />
 </p>
 
 ---
