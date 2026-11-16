@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal Header" width="100%">
+  <img src="./assets/terminal_header.svg" alt="Terminal Header" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Mackenzie</h1>
