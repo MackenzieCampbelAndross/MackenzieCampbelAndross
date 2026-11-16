@@ -24,20 +24,28 @@ Outside of software engineering, I am an International Chess Player.
 
 ---
 
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img src="./assets/contributions.svg" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
 <h2 align="center">Featured Systems</h2>
 
 <details>
   <summary><img src="./assets/cards/forge_slim.svg" width="100%" alt="FORGE" /></summary>
   <br>
   <blockquote>
-    <p><b>FORGE — Autonomous Multi-Agent Workflow Framework</b></p>
+    <p><b>FORGE &mdash; Autonomous Multi-Agent Workflow Framework</b></p>
     <p>Asynchronous task graph execution engine featuring automated dependency resolution, worker isolation, and dynamic schema generation.</p>
     <ul>
       <li><b>Architecture:</b> DAG-based task orchestration with cycle detection and parallel branch execution</li>
       <li><b>Fault Tolerance:</b> Automated retry policies, checkpointing, and execution state recovery</li>
       <li><b>Stack:</b> Python, AsyncIO, Docker SDK, Alembic, PostgreSQL</li>
     </ul>
-    <p><a href="https://github.com/MackenzieCampbelAndross/FORGE"><b>View Repository →</b></a></p>
+    <p><a href="https://github.com/MackenzieCampbelAndross/FORGE"><b>View Repository &rarr;</b></a></p>
   </blockquote>
 </details>
 
@@ -47,14 +55,14 @@ Outside of software engineering, I am an International Chess Player.
   <summary><img src="./assets/cards/ceebase_slim.svg" width="100%" alt="CeeBase" /></summary>
   <br>
   <blockquote>
-    <p><b>CeeBase — Embedded Key-Value Storage Engine</b></p>
+    <p><b>CeeBase &mdash; Embedded Key-Value Storage Engine</b></p>
     <p>High-performance embedded key-value storage engine in C++17 with disk-backed persistence.</p>
     <ul>
       <li><b>Storage Engine:</b> Page-based disk layout with slotted pages and buffer pool manager using clock replacement</li>
       <li><b>Indexing &amp; Recovery:</b> Concurrent B+ Tree indexing and Write-Ahead Logging (WAL) for ACID crash consistency</li>
       <li><b>Stack:</b> C++17, CMake, POSIX I/O, GoogleTest</li>
     </ul>
-    <p><a href="https://github.com/MackenzieCampbelAndross/CeeBase"><b>View Repository →</b></a></p>
+    <p><a href="https://github.com/MackenzieCampbelAndross/CeeBase"><b>View Repository &rarr;</b></a></p>
   </blockquote>
 </details>
 
@@ -64,14 +72,14 @@ Outside of software engineering, I am an International Chess Player.
   <summary><img src="./assets/cards/atlas_slim.svg" width="100%" alt="A.T.L.A.S" /></summary>
   <br>
   <blockquote>
-    <p><b>A.T.L.A.S — Real-Time Voice Processing Pipeline</b></p>
+    <p><b>A.T.L.A.S &mdash; Real-Time Voice Processing Pipeline</b></p>
     <p>Low-latency audio intelligence pipeline designed for real-time speech processing and natural language interaction.</p>
     <ul>
       <li><b>Audio DSP:</b> Real-time noise suppression, acoustic framing, and Voice Activity Detection (VAD)</li>
       <li><b>Inference Engine:</b> Streaming Whisper speech-to-text decoding paired with zero-shot intent extraction</li>
       <li><b>Stack:</b> Python, Whisper, PyTorch, Librosa, WebSockets</li>
     </ul>
-    <p><a href="https://github.com/MackenzieCampbelAndross/A.T.L.A.S"><b>View Repository →</b></a></p>
+    <p><a href="https://github.com/MackenzieCampbelAndross/A.T.L.A.S"><b>View Repository &rarr;</b></a></p>
   </blockquote>
 </details>
 
@@ -81,14 +89,14 @@ Outside of software engineering, I am an International Chess Player.
   <summary><img src="./assets/cards/metavault_slim.svg" width="100%" alt="MetaVault" /></summary>
   <br>
   <blockquote>
-    <p><b>MetaVault — Decentralized KYC &amp; Identity Registry</b></p>
+    <p><b>MetaVault &mdash; Decentralized KYC &amp; Identity Registry</b></p>
     <p>Smart contract protocol for on-chain identity verification and revocable Soulbound Token (SBT) attestations.</p>
     <ul>
       <li><b>Identity Architecture:</b> EIP-712 typed structured data signing for off-chain credential verification</li>
       <li><b>Security &amp; Gas:</b> Role-based access control, gas-optimized storage slots, and non-transferable SBT checks</li>
       <li><b>Stack:</b> Solidity, Hardhat, Ethers.js, OpenZeppelin, Web3</li>
     </ul>
-    <p><a href="https://github.com/MackenzieCampbelAndross/MetaVault"><b>View Repository →</b></a></p>
+    <p><a href="https://github.com/MackenzieCampbelAndross/MetaVault"><b>View Repository &rarr;</b></a></p>
   </blockquote>
 </details>
 
@@ -98,14 +106,14 @@ Outside of software engineering, I am an International Chess Player.
   <summary><img src="./assets/cards/monkeybots_slim.svg" width="100%" alt="MonkeyBots" /></summary>
   <br>
   <blockquote>
-    <p><b>MonkeyBots — Headless Browser Automation Framework</b></p>
+    <p><b>MonkeyBots &mdash; Headless Browser Automation Framework</b></p>
     <p>High-throughput web extraction and automation engine with anti-detection evasion and session management.</p>
     <ul>
       <li><b>Browser Orchestration:</b> Automated session lifecycle renewal, proxy rotation, and fingerprint masking</li>
       <li><b>Extraction Engine:</b> Resilient DOM mutation tracking, asynchronous page evaluation, and structured data streaming</li>
       <li><b>Stack:</b> Python, Playwright, AsyncIO, BeautifulSoup4, Redis</li>
     </ul>
-    <p><a href="https://github.com/MackenzieCampbelAndross/MonkeyBots"><b>View Repository →</b></a></p>
+    <p><a href="https://github.com/MackenzieCampbelAndross/MonkeyBots"><b>View Repository &rarr;</b></a></p>
   </blockquote>
 </details>
 
@@ -115,14 +123,14 @@ Outside of software engineering, I am an International Chess Player.
   <summary><img src="./assets/cards/astralink_slim.svg" width="100%" alt="AstraLink" /></summary>
   <br>
   <blockquote>
-    <p><b>AstraLink — Free-Space Optical Communications (FSOC) 3D Simulator</b></p>
+    <p><b>AstraLink &mdash; Free-Space Optical Communications (FSOC) 3D Simulator</b></p>
     <p>Interactive 3D simulation engine modeling inter-satellite laser communications and ground optical links.</p>
     <ul>
       <li><b>Simulation Physics:</b> Orbital mechanics calculation, atmospheric turbulence attenuation, and laser beam pointing vectors</li>
       <li><b>Visualization:</b> Real-time Three.js 3D rendering with dynamic telemetry metrics and ground-station line-of-sight tracking</li>
       <li><b>Stack:</b> TypeScript, Three.js, Vite, WebGL, TailwindCSS</li>
     </ul>
-    <p><a href="https://github.com/MackenzieCampbelAndross/AstraLink"><b>View Repository →</b></a></p>
+    <p><a href="https://github.com/MackenzieCampbelAndross/AstraLink"><b>View Repository &rarr;</b></a></p>
   </blockquote>
 </details>
 
