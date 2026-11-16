@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">// ABOUT ME</h2>
+<h2 align="center">About Me</h2>
 
 <img align="right" src="./assets/astro.png" width="240" alt="Pixel Astronaut" />
 
@@ -37,7 +37,7 @@ Outside of software engineering, I play competitive chess.
 
 ---
 
-<h2 align="center">// FEATURED PROJECTS</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table width="100%">
 <tr>
@@ -102,7 +102,7 @@ Outside of software engineering, I play competitive chess.
 
 ---
 
-<h2 align="center">// CONNECT</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/MackenzieCampbelAndross">
@@ -120,7 +120,7 @@ Outside of software engineering, I play competitive chess.
 
 ---
 
-<h2 align="center">// TECH STACK</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,solidity,postgres,docker,git,linux,react,nextjs,tailwind,cmake,vscode" alt="Tech Icons" />
@@ -140,7 +140,7 @@ Outside of software engineering, I play competitive chess.
 
 ---
 
-<h2 align="center">// GITHUB STATS</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MackenzieCampbelAndross&theme=dark&background=000000&border=222222&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&border_radius=8" height="150" alt="Streak Stats" />
@@ -148,7 +148,7 @@ Outside of software engineering, I play competitive chess.
 
 <br>
 
-<h2 align="center">// ACTIVITY GRAPH</h2>
+<h2 align="center">Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MackenzieCampbelAndross&bg_color=000000&color=E6EDF3&line=38BDF8&point=818CF8&area=true&hide_border=true&radius=12" alt="Activity Graph" width="95%" />
