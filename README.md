@@ -160,14 +160,4 @@ When I am not writing code, I am an **International Competitive Chess Player**, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MackenzieCampbelAndross&bg_color=000000&color=E6EDF3&line=38BDF8&point=818CF8&area=true&hide_border=true&radius=12" alt="Activity Graph" width="95%" />
 </p>
 
----
 
-<h2 align="center">// PHILOSOPHY</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
-</p>
-
-<p align="center">
-  <i>"Understand the problem. Design the system. Build the solution. Measure what matters."</i>
-</p>
