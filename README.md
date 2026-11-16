@@ -37,68 +37,31 @@ Outside of software engineering, I play competitive chess.
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Featured Systems</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/MackenzieCampbelAndross/FORGE">
+    <img src="./assets/cards/forge.svg" width="49%" alt="FORGE" />
+  </a>
+  <a href="https://github.com/MackenzieCampbelAndross/CeeBase">
+    <img src="./assets/cards/ceebase.svg" width="49%" alt="CeeBase" />
+  </a>
+</p>
 
-### [FORGE](https://github.com/MackenzieCampbelAndross/FORGE)
-**Multi-Agent Workflow Framework**
-* Asynchronous task graph execution engine with dependency management.
-* Worker process isolation, event streaming, and custom tool integration.
+<p align="center">
+  <a href="https://github.com/MackenzieCampbelAndross/A.T.L.A.S">
+    <img src="./assets/cards/atlas.svg" width="49%" alt="A.T.L.A.S" />
+  </a>
+  <a href="https://github.com/MackenzieCampbelAndross/MetaVault">
+    <img src="./assets/cards/metavault.svg" width="49%" alt="MetaVault" />
+  </a>
+</p>
 
-`Python` `AsyncIO` `Alembic` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [CeeBase](https://github.com/MackenzieCampbelAndross/CeeBase)
-**Embedded Storage Engine**
-* Storage engine written in C++ with page-based data layouts.
-* B+ Tree index with concurrent latching and write-ahead logging (WAL) for durability.
-
-`C++17` `CMake` `B+ Tree` `WAL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [A.T.L.A.S](https://github.com/MackenzieCampbelAndross/A.T.L.A.S)
-**Voice Processing Pipeline**
-* Audio processing pipeline with Whisper speech-to-text integration.
-* Voice activity detection, audio chunking, and intent matching.
-
-`Python` `Whisper` `Audio` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### [MetaVault](https://github.com/MackenzieCampbelAndross/MetaVault)
-**KYC & Identity Contracts**
-* Smart contract registry for identity credential verification.
-* Non-transferable token checks, EIP-712 signatures, and upgradeable proxies.
-
-`Solidity` `Hardhat` `EIP-712` `Web3.js`
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### [MonkeyBots](https://github.com/MackenzieCampbelAndross/MonkeyBots)
-**Automation & Scraper Framework**
-* Headless browser automation with session management and proxy rotation.
-* Resilient DOM selector handling, concurrency pools, and error reporting.
-
-`Python` `Headless Chrome` `Automation`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/MackenzieCampbelAndross/MonkeyBots">
+    <img src="./assets/cards/monkeybots.svg" width="49%" alt="MonkeyBots" />
+  </a>
+</p>
 
 ---
 
