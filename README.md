@@ -40,25 +40,25 @@ Outside of software engineering, I am an International Chess Player.
 
 <p align="center">
   <a href="https://github.com/MackenzieCampbelAndross/FORGE">
-    <img src="./assets/cards/forge_v2.svg" width="49%" alt="FORGE" />
+    <img src="./assets/cards/forge_bw.svg" width="49%" alt="FORGE" />
   </a>
   <a href="https://github.com/MackenzieCampbelAndross/CeeBase">
-    <img src="./assets/cards/ceebase_v2.svg" width="49%" alt="CeeBase" />
+    <img src="./assets/cards/ceebase_bw.svg" width="49%" alt="CeeBase" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MackenzieCampbelAndross/A.T.L.A.S">
-    <img src="./assets/cards/atlas_v2.svg" width="49%" alt="A.T.L.A.S" />
+    <img src="./assets/cards/atlas_bw.svg" width="49%" alt="A.T.L.A.S" />
   </a>
   <a href="https://github.com/MackenzieCampbelAndross/MetaVault">
-    <img src="./assets/cards/metavault_v2.svg" width="49%" alt="MetaVault" />
+    <img src="./assets/cards/metavault_bw.svg" width="49%" alt="MetaVault" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MackenzieCampbelAndross/MonkeyBots">
-    <img src="./assets/cards/monkeybots_v2.svg" width="49%" alt="MonkeyBots" />
+    <img src="./assets/cards/monkeybots_bw.svg" width="49%" alt="MonkeyBots" />
   </a>
 </p>
 

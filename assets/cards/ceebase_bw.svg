@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 176" width="100%" height="176">
+  <defs>
+    <!-- Monochrome Obsidian Card Background -->
+    <linearGradient id="cardGrad_ceebase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e0e11"/>
+      <stop offset="100%" stop-color="#020204"/>
+    </linearGradient>
+
+    <!-- Crisp White/Silver 3D Rim Light -->
+    <linearGradient id="borderGrad_ceebase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+
+    <!-- Depth Shadow -->
+    <filter id="cardGlow_ceebase" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.95"/>
+    </filter>
+
+    <!-- Faint Monochrome Specular Highlight -->
+    <radialGradient id="glowSpot_ceebase" cx="12%" cy="12%" r="45%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 3D Monochrome Card Container -->
+  <rect x="2" y="2" width="406" height="172" rx="14" fill="url(#cardGrad_ceebase)" stroke="url(#borderGrad_ceebase)" stroke-width="1.2" filter="url(#cardGlow_ceebase)"/>
+  <rect x="2" y="2" width="406" height="172" rx="14" fill="url(#glowSpot_ceebase)"/>
+
+  <!-- Card Header -->
+  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="18" font-weight="700" fill="#ffffff" letter-spacing="-0.3px">CeeBase</text>
+  <text x="24" y="58" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11.5" font-weight="500" fill="#a1a1aa">Embedded Storage Engine</text>
+
+  <!-- External Link Arrow Icon -->
+  <g transform="translate(370, 24)">
+    <circle cx="8" cy="8" r="14" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    <path d="M 5 11 L 11 5 M 6 5 L 11 5 L 11 10" fill="none" stroke="#d4d4d8" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Description Body -->
+  <text x="24" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#888888">
+    <tspan x="24" dy="0">Storage engine in C++ with page-based data layouts,</tspan>
+    <tspan x="24" dy="18">concurrent B+ Tree indexing, and write-ahead logging</tspan>
+  </text>
+
+  <!-- Tech Tags Footer -->
+    <rect x="24.0" y="128" width="54.0" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="51.0" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#a1a1aa">C++17</text>
+    <rect x="86.0" y="128" width="54.0" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="113.0" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#a1a1aa">CMake</text>
+    <rect x="148.0" y="128" width="68.4" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="182.2" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#a1a1aa">B+ Tree</text>
+    <rect x="224.4" y="128" width="39.6" height="24" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="244.2" y="144" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#a1a1aa">WAL</text>
+</svg>
