@@ -22,7 +22,7 @@
   <rect x="2" y="2" width="846" height="211" rx="10" fill="url(#contribBg)" stroke="url(#contribBorder)" stroke-width="1.2" filter="url(#contribShadow)"/>
 
   <!-- Card Header -->
-  <text x="24" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14.5" font-weight="600" fill="#f0f6fc">1,860 contributions in the last year</text>
+  <text x="24" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14.5" font-weight="600" fill="#f0f6fc">1,874 contributions in the last year</text>
   <text x="822" y="30" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="11" fill="#7d8590">Contribution settings &#9662;</text>
 
   <!-- Month Labels -->
