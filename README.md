@@ -32,7 +32,7 @@ Outside of software engineering, I am an International Chess Player.
 
 ---
 
-<h2 align="center">Featured Systems</h2>
+<h2 align="center">Selected Projects</h2>
 
 <p align="center">
   <a href="https://github.com/MackenzieCampbelAndross/FORGE">
